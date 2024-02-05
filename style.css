@@ -27,6 +27,8 @@ body{
 }
 .osnova{
     display: flex;
+    width:auto ;
+    height:auto ;
 }
 .rascen div{
     background-color: bisque;
