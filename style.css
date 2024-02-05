@@ -3,7 +3,7 @@ header{
 }
 body{
     background-image: url(./img/фон.jpeg);
-    background-size:100%;
+    background-size:auto;
 }
 .lozyng{
     display: flex;
