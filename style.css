@@ -2,7 +2,7 @@ header{
     text-align: center;
 }
 body{
-    background-image: url(/img/фон.jpeg);
+    background-image: url(./img/фон.jpeg);
     background-size:100%;
 }
 .lozyng{
