@@ -31,7 +31,7 @@ body{
 .rascen div{
     background-color: bisque;
     width: 25vw;
-    height: 40vw;
+    height: auto;
     border-radius: 25px;
     margin-left: 10vw;
     margin-top: 2vw;
